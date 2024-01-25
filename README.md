@@ -16,3 +16,5 @@ Just run it and open the txt file generated in an IDE to watch them debate live.
 
 python3 AI_Debate.py
 
+Lastly, feel free to give any other ideas of what to do with these bots.
+
